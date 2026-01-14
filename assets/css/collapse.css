@@ -15,3 +15,13 @@
     display: none;
     padding : 5px;
 }
+
+/* ===== Custom: widen layout ===== */
+.wrapper,
+.page,
+.page__inner-wrap,
+.initial-content,
+.masthead__inner-wrap {
+  max-width: 1400px !important; /* 可改成 1600px */
+  width: 100% !important;
+}
