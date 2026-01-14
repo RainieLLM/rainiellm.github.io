@@ -21,7 +21,7 @@ Personalized text generation, Agent post-training, World model, User modeling, R
 
 News 🥳
 ======
-- **Jan 2026**: My paper \textit{MedSpeak: A knowledge Graph-aided ASR Error Correction Framework for Spoken Medical QA} is accpeted by ICASSP 2026, see you in Barcelona, Spain!
+- **Jan 2026**: My paper _MedSpeak: A knowledge Graph-aided ASR Error Correction Framework for Spoken Medical QA_ is accpeted by ICASSP 2026, see you in Barcelona, Spain!
 - **May 2025**: I will start my internship in Tiktok Inc. as a Machine Learning Engineer Intern from Jun to Dec 2025.
 - **Mar 2025**: I went to Philadephia and attended AAAI 2025! I gave a presentation of my recent work about RAG agent on dementia care. You can view my presentation slides here: [Dementia-plan](files/dementia_slides.pdf).
 <!-- - **Jan 2025**: Our paper *DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge GraphRetrieval-Augmented Generation in Dementia Care* is accpeted by AAAI 2025 Workshop on Knowledge Graphs for Personalized Public Health[website](https://sites.google.com/view/kg4hejss/home). -->
