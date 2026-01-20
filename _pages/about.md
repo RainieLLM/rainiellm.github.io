@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me 👋
 ======
-This is **Yutong Song**, a forth-year PhD student at the University of California, Irvine. I am now living in Irvine with my cute cat [Hula](images/pet.jpg).
+This is **Yutong Song**, a forth-year PhD student at the University of California, Irvine and I will graduate in 2026. I am now living in Irvine with my cute cat [Hula](images/pet.jpg).
 
  I am working in [Health SciTech Group](https://healthscitech.nursing.uci.edu/), under the mentorship of [Prof.Amir M. Rahmani](https://ics.uci.edu/~amirr1/) and [Prof.Nikil Dutt](https://ics.uci.edu/~dutt/). From Jan 2022 to Jun 2024, I was a PhD student major in computational science, studied jointly in UCI and SDSU. 
  
@@ -33,9 +33,6 @@ News 🥳
 
 
 
-
-
-
 Awards and Honors 🏆 
 ======
 
@@ -45,9 +42,9 @@ Awards and Honors 🏆
 - The Best Paper Award, IEEE CAMAD 2022 
 
 
-Skill 📌
+<!-- Skill 📌
 ======
 - Programming Languages: Python, Java, JavaScript/TypeScript, SQL, C++, Golang, HTML/CSS
 - Web Technologies: React/Next.js, React Native, Spring Cloud, Node.js, Express.js, Redux, GraphQL, RESTful APIs, Vue.js, Angular, WebRTC
 - Database & Storage & Infrastructure: MongoDB, PostgreSQL, MySQL, Redis, Neo4j, InfluxDB, Amazon S3, Docker, Kubernetes, Kafka, WebSocket, GitHub Actions, AWS/GCP/Azure
-- AI/ML & Big Data: PyTorch, Spark, Hadoop, Machine Learning, Deep Learning, Large Language Models, Multi-modal Models, Speech Recognition, RAG, LLM agent
+- AI/ML & Big Data: PyTorch, Spark, Hadoop, Machine Learning, Deep Learning, Large Language Models, Multi-modal Models, Speech Recognition, RAG, LLM agent -->
