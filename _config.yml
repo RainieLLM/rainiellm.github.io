@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "Irvine, US"
 site_theme               : "default"
-title                    : "Yutong(Rainie) Song's playground"
+title                    : "Yutong Song's playground"
 title_separator          : "-"
-name                     : &name "Yutong(Rainie) Song"
+name                     : &name "Yutong Song"
 description              : &description "personal description"
 url                      : https://rainiellm.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "gaofei.png"
-  name             : #"Yutong(Rainie) Song"
+  name             : #"Yutong Song"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science, focusing on trustworth LLM and AI in healthcare"
   location         : "Irvine, CA, US"
