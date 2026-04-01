@@ -5,15 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Research Projects"
-    url: /research_project/
-
-
-  - title: "Technical Projects"
-    url: /tech_project/
+  # - title: "About Yutong Song"
+  #   url: /
 
   # - title: "Working/Teaching Experiences"
   #   url: /teaching/ 

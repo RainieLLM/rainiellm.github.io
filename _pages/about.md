@@ -8,6 +8,8 @@ redirect_from:
 ---
 About me 👋
 ======
+<!--bundle exec jekyll serve --livereload-->
+
 This is **Yutong Song**, a forth-year PhD student at the University of California, Irvine and I will graduate in 2026. I am now living in Irvine with my cute cat [Hula](images/pet.jpg). I am working in [Health SciTech Group](https://healthscitech.nursing.uci.edu/), under the mentorship of [Prof.Amir M. Rahmani](https://ics.uci.edu/~amirr1/) and [Prof.Nikil Dutt](https://ics.uci.edu/~dutt/).
 
  <!-- From Jan 2022 to Jun 2024, I was a PhD student major in computational science, studied jointly in UCI and SDSU.  -->
@@ -17,7 +19,7 @@ This is **Yutong Song**, a forth-year PhD student at the University of Californi
 
 Working Experience 🔑
 ======
-**Jun 2025 - Dec 2025**: Machine learning Enigeer Intern in TikTok.inc
+**Jun 2025 - Dec 2025**: Machine learning Engineer Intern in TikTok.inc
 
 Research Intersts 👾
 ======
@@ -35,8 +37,31 @@ News 🥳
 <!-- - **Jun 2023**: Our paper _A Use-It-Or-Lose-It Economic VCG Auction Approach For NOMA Wireless Relay Networks_ is accepted by 2023 IEEE International Conference on Omni-layer Intelligent Systems (COINS). You can find the slides [here](files/COINS2023.pdf). -->
 <!-- - **Mar 2023**: I was invited to present a poster to show my work about new works on data pricing strategy at Computational Science Curriculum Development Forum and ACSESS for Industry 2023 in San Diego, you can find my poster [here](files/ACSCESS-2022.pdf). -->
 <!-- - **Oct 2022**: I am very happy that our paper Uberization of *NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach* is accpetd by  IEEE 27th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks(CAMAD) and won __THE BEST PAPER award__！ -->
+ 
+Selected Publications 🚀
+======
+<div class="project-section">
+  <article class="project-card">
+    <div class="project-left">
+      <figure class="project-art">
+        <span class="project-label">Automatic Speech Recognition</span>
+        <img class="project-art-img" src="{{ '/medspeak_framework.png' | relative_url }}" alt="MedSpeak framework diagram">
+      </figure>
+    </div>
+    <div class="project-right">
+      <h3>MedSpeak: Knowledge Enhanced ASR Error Correction for Spoken Medical QA</h3>
+      <p class="project-authors"><strong>Yutong Song</strong>, Chenxi Lyu, Ehsan Khatibi, Pengyu Zhang, Nikil Dutt, Amir M. Rahmani</p>
+      <p class="project-venue"><em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</em></p>
+      <p class="project-highlight">Phonetic + semantic KG retrieval repairs hallucinated medical terminology before QA reasoning, lifting exact match and BLEU on internal SQA benchmarks.</p>
+      <div class="project-actions">
+        <a class="btn btn-outline" href="{{ '/files/paper1.pdf' | relative_url }}">Paper</a>
+        <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
+        <a class="btn btn-outline" href="mailto:yutons12@uci.edu">Code</a>
+      </div>
+    </div>
+  </article>
 
-
+</div>
 
 Awards and Honors 🏆 
 ======
