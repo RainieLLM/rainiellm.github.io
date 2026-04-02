@@ -112,109 +112,8 @@
   }
 }
 
-/* Project cards on about page */
-.project-section {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
 
-.project-card {
-  display: flex;
-  gap: 0.2rem;
-  padding: 1.75rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 16px;
-  background: #fff;
-  box-shadow: 0 18px 45px rgba(0,0,0,0.07);
-  flex-wrap: wrap;
-}
 
-.project-left {
-  flex: 0 0 240px;
-}
-
-.project-right {
-  flex: 1;
-}
-
-.project-art {
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  text-align: center;
-  padding: 0.5rem;
-}
-
-.project-art-img {
-  width: 100%;
-  border-radius: 14px;
-  border: 1px solid rgba(0,0,0,0.08);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-}
-
-.project-label {
-  display: inline-block;
-  padding: 0.12rem 0.42rem;
-  font-size: 0.46rem;
-  border-radius: 999px;
-  background: #c136dd;
-  color: #fff;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  align-self: center;
-  text-transform: uppercase;
-}
-.project-body {
-  flex: 1;
-}
-
-.project-body h3 {
-  margin: 0 0 0.4rem 0 !important;
-  font-size: 0.65rem !important;
-  line-height: 1.25 !important;
-  font-weight: 700 !important;
-  color: #1d4ed8;
-}
-
-.project-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 1rem;
-}
-
-.project-actions .btn {
-  border-radius: 10px;
-  padding: 0.4rem 1.5rem;
-}
-
-.btn-outline {
-  border: 1px solid var(--global-text-color);
-  background: transparent;
-  color: var(--global-text-color);
-}
-
-.project-authors {
-  margin: 0 0 0.18rem 0;
-  font-size: 0.72rem !important;
-  line-height: 1.35;
-  font-weight: 400;
-}
-.project-authors strong {
-  font-weight: 700;
-}
-
-.project-venue {
-  margin-bottom: 0.45rem;
-  font-size: 0.9rem;
-}
-
-.project-highlight {
-  margin-bottom: 0.65rem;
-  font-size: 0.95rem;
-}
 
 @include breakpoint(max-width $small) {
   .project-card {
@@ -552,6 +451,8 @@
 }
 
 
+/* Project cards on about page */
+
 .project-section {
   margin: 1.5rem 0 2rem 0;
 }
@@ -560,9 +461,9 @@
   display: grid;
   grid-template-columns: 500px 1fr;
   gap: 0.4rem;
-  align-items: center;
+  align-items: start;
 
-  padding: 0.4rem 0.8rem;
+  padding: 0.1rem 0.5rem;
   border: 1px solid #e5e5e5;
   border-radius: 18px;
   background: #f8f8f8;
@@ -575,7 +476,18 @@
 }
 
 .project-label {
-  margin-bottom: 0 !important;
+  display: inline-block;
+  margin: 0 auto 0.15rem auto; 
+  margin-bottom: 0.15rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #c13be2, #a93ce9);
+  color: #fff;
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-transform: uppercase;
+  align-self: flex-start;
 }
 
 .project-art {
@@ -583,7 +495,7 @@
 }
 
 .project-art-img {
-  width: 100%;
+  width: 90%;
   max-width: 450px;
   height: auto;
   display: block;
@@ -594,40 +506,35 @@
 }
 
 .project-meta h3 {
-  margin: 0 0 0.22rem 0;
+  margin: 0 0 0.08rem 0;
   font-size: 0.9rem !important;
-  line-height: 1.22;
+  line-height: 1.1;
   font-weight: 700;
-  color: #1d4ed8;
-  
+  color: #1e3a8a !important;
 }
 
 .project-authors {
-  margin: 0 0 0.18rem 0;
+  margin: 0 0 0.06rem 0;
   font-size: 0.72rem !important;
-  line-height: 1.35;
-  font-weight: 400;
+  line-height: 1.2;
+  font-weight: 400 !important;
 }
+
 .project-authors strong {
-  font-weight: 700;
+  font-weight: 700 !important;
 }
 
 .project-venue {
-  margin: 0;
+  margin: 0 0 0.15rem 0;
   font-size: 0.68rem !important;
-  line-height: 1.35;
-}
-
-.project-right {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  line-height: 1.2;
+  color: #1d4ed8 !important;
 }
 
 .project-highlight {
-  margin: 0 0 0.7rem 0;
+  margin: 0 0 0.25rem 0;
   font-size: 0.82rem !important;
-  line-height: 1.5;
+  line-height: 1.28;
 }
 
 .project-actions {
@@ -656,7 +563,7 @@
   color: #fff !important;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   .project-card {
     grid-template-columns: 1fr;
     gap: 1rem;
@@ -672,6 +579,6 @@
   }
 
   .project-art-img {
-    max-width: 500px;
+    max-width: 450px;
   }
 }
