@@ -62,7 +62,9 @@ Selected Publications 🚀
     <div class="project-right">
       <h3>DemMA: Dementia Multi-Turn Dialogue Agent with Expert-Guided Reasoning and Action Simulation</h3>
       <p class="project-authors"><strong>Yutong Song</strong>, Jiang Wu, Kazi Sharif, Pengfei Zhang, Wenjun Huang, Honghui Xu, Nikil Dutt, Amir Rahmani</p>
-      <p class="project-highlight">Phonetic + semantic KG retrieval repairs hallucinated medical terminology before QA reasoning, lifting exact match and BLEU on internal SQA benchmarks.</p>
+      <p class="project-highlight">DemMA is an LLM-based generative agent that simulates dementia patient interactions using chain-of-thought distillation and explicit action labels, supported by a dialogue dataset spanning multiple dementia subtypes.</p>
+      <p class="project-authors"><strong>Yutong Song</strong>,  Jiang Wu, Weijia Zhang, Chengze Shen, Shaofan Yuan, Weitao Lu, Jian Wang, Amir Rahmani, Nikil Dutt, Yu Wang</p>
+
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2601.06373" target="_blank" rel="noopener">Paper</a>
         <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
@@ -83,7 +85,7 @@ Selected Publications 🚀
     <div class="project-right">
       <h3>CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation</h3>
       <p class="project-authors"><strong>Yutong Song</strong>,  Jiang Wu, Weijia Zhang, Chengze Shen, Shaofan Yuan, Weitao Lu, Jian Wang, Amir Rahmani, Nikil Dutt, Yu Wang</p>
-      <p class="project-highlight">DemMA is an LLM-based generative agent that simulates dementia patient interactions using chain-of-thought distillation and explicit action labels, supported by a dialogue dataset spanning multiple dementia subtypes.</p>
+            <p class="project-highlight">CARD is a hierarchical personalization text generation framework that combines group-level adaptation with user-specific decoding to generate text better aligned with individual preferences.</p>
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2601.06352" target="_blank" rel="noopener">Paper</a>
         <a class="btn btn-outline" href="{{ '/files/CARD_slides.pdf' | relative_url }}">Slides</a>
@@ -104,7 +106,7 @@ Selected Publications 🚀
     <div class="project-right">
       <h3>Styles+ Persona-plug= Customized LLMs</h3>
       <p class="project-authors"><strong>Yutong Song</strong>, Jiang Wu, Shaofan Yuan, Chengze Shen, Jian Wang, Amir Rahmani, Nikil Dutt, Yu Wang</p>
-      <p class="project-highlight">CARD is a hierarchical personalization text generation framework that combines group-level adaptation with user-specific decoding to generate text better aligned with individual preferences.</p>
+      <p class="project-highlight">To balance implicit personalization and explicit style, we formulate personalization as a distributional residual and propose PsPLUG, a lightweight plug-in that preserves implicit user personalization while following explicit style instructions in customized LLMs.</p>
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2601.06362" target="_blank" rel="noopener">Paper</a>
         <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
@@ -124,7 +126,7 @@ Selected Publications 🚀
     <div class="project-right">
       <h3>MedSpeak: Knowledge Enhanced ASR Error Correction for Spoken Medical QA</h3>
       <p class="project-authors"><strong>Yutong Song</strong>, Chenxi Lyu, Ehsan Khatibi, Pengyu Zhang, Nikil Dutt, Amir M. Rahmani</p>
-      <p class="project-highlight">To balance implicit personalization and explicit style, we formulate personalization as a distributional residual and propose PsPLUG, a lightweight plug-in that preserves implicit user personalization while following explicit style instructions in customized LLMs.</p>
+      <p class="project-highlight">Phonetic + semantic KG retrieval repairs hallucinated medical terminology before QA reasoning, lifting exact match and BLEU on internal SQA benchmarks.</p>
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2602.00981" target="_blank" rel="noopener">Paper</a>
         <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
