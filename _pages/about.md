@@ -63,8 +63,6 @@ Selected Publications 🚀
       <h3>DemMA: Dementia Multi-Turn Dialogue Agent with Expert-Guided Reasoning and Action Simulation</h3>
       <p class="project-authors"><strong>Yutong Song</strong>, Jiang Wu, Kazi Sharif, Pengfei Zhang, Wenjun Huang, Honghui Xu, Nikil Dutt, Amir Rahmani</p>
       <p class="project-highlight">DemMA is an LLM-based generative agent that simulates dementia patient interactions using chain-of-thought distillation and explicit action labels, supported by a dialogue dataset spanning multiple dementia subtypes.</p>
-      <p class="project-authors"><strong>Yutong Song</strong>,  Jiang Wu, Weijia Zhang, Chengze Shen, Shaofan Yuan, Weitao Lu, Jian Wang, Amir Rahmani, Nikil Dutt, Yu Wang</p>
-
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2601.06373" target="_blank" rel="noopener">Paper</a>
         <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
@@ -129,7 +127,7 @@ Selected Publications 🚀
       <p class="project-highlight">Phonetic + semantic KG retrieval repairs hallucinated medical terminology before QA reasoning, lifting exact match and BLEU on internal SQA benchmarks.</p>
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2602.00981" target="_blank" rel="noopener">Paper</a>
-        <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
+        <a class="btn btn-outline" href="{{ '/files/medspeak_poster.pdf' | relative_url }}">Poster</a>
         <a class="btn btn-outline" href="https://github.com/RainieLLM/MedSpeak" target="_blank" rel="noopener">Code</a>
       </div>
     </div>
