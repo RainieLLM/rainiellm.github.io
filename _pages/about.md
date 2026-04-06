@@ -28,6 +28,7 @@ Personalized text generation, Agent post-training, World model, User modeling, R
 
 News 🥳
 ======
+- **Apr 2026**: My paper _DemMA: Dementia Multi-Turn Dialogue Agent with Expert-Guided Reasoning and Action Simulation_ is accpeted by ACL 2026 (findings), see you in San Diego!
 - **Jan 2026**: My paper _MedSpeak: A knowledge Graph-aided ASR Error Correction Framework for Spoken Medical QA_ is accpeted by ICASSP 2026, see you in Barcelona, Spain!
 - **May 2025**: I will start my internship in Tiktok Inc. as a Machine Learning Engineer Intern from Jun to Dec 2025.
 - **Mar 2025**: I went to Philadephia and attended AAAI 2025! I gave a presentation of my recent work about RAG agent on dementia care. You can view my presentation slides here: [Dementia-plan](files/dementia_slides.pdf).
