@@ -19,12 +19,13 @@ This is **Yutong Song**, a forth-year PhD student at the University of Californi
 
 Working Experience 🔑
 ======
-**Jun 2025 - Dec 2025**: Machine learning Engineer Intern in TikTok.inc
+**Jun 2025 - Dec 2025**: Research Scientist Intern in TikTok
 
 Research Intersts 👾
 ======
 
-Personalized text generation, Agent post-training, World model, User modeling, Reinforcement learning, Human preference alignment, Agentic RAG, Speech language model, Spoken dialog system, Automatic Speech Recognition
+Large language models, Health AI, Personalized text generation, LLM Agent, LLM post-training, User modeling, Rein-
+forcement learning, Human preference alignment, Agentic RAG, Speech language model, Spoken dialog system, Automatic Speech Recognition
 
 News 🥳
 ======
@@ -56,7 +57,7 @@ Selected Publications 🚀
   <article class="project-card">
     <div class="project-left">
       <figure class="project-art">
-        <span class="project-label">Under Review</span>
+        <span class="project-label">ACL 2026</span>
         <img class="project-art-img" src="{{'/files/Demma.png' | relative_url }}" alt="Demma framework diagram">
       </figure>
     </div>
@@ -67,7 +68,7 @@ Selected Publications 🚀
       <div class="project-actions">
         <a class="btn btn-outline" href="https://arxiv.org/abs/2601.06373" target="_blank" rel="noopener">Paper</a>
         <a class="btn btn-outline" href="{{ '/files/dementia_slides.pdf' | relative_url }}">Poster</a>
-        <a class="btn btn-outline" href="https://anonymous.4open.science/r/DemMA-0A4B/" target="_blank" rel="noopener">Code</a>
+        <a class="btn btn-outline" href="https://github.com/RainieLLM/DemMA" target="_blank" rel="noopener">Code</a>
       </div>
     </div>
   </article>
