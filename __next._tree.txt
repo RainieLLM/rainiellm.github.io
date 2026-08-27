@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/0sp4d2igsog1w.css","style"]
+:HL["/_next/static/chunks/0ci61.t94pucl.css","style"]
 :HL["/images/gaofei.png","image"]
 :HL["/files/Demma.png","image"]
-:HL["/medspeak_framework.png","image"]
 :HL["/files/card.png","image"]
 :HL["/files/psplug.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"D95_Z4hNYaUBXajAEggRf"}
+:HL["/medspeak_framework.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JIDqoQXPGKav4Ms0mXZRK"}
