@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0rjspv20.vmft.css","style"]
+:HL["/_next/static/chunks/0od5dqtbp-1xe.css","style"]
 :HL["/images/gaofei.png","image"]
 :HL["/files/psplug.png","image"]
 :HL["/files/card.png","image"]
@@ -7,4 +7,4 @@
 :HL["/logos/tiktok.svg","image"]
 :HL["/files/Demma.png","image"]
 :HL["/medspeak_framework.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Lf_2cSDqw7X32gA6xrSEU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Tv2rEa-RA1N6utjT6_BUe"}
