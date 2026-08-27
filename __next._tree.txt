@@ -1,7 +1,10 @@
-:HL["/_next/static/chunks/0ci61.t94pucl.css","style"]
+:HL["/_next/static/chunks/0l53ps-d02oxp.css","style"]
 :HL["/images/gaofei.png","image"]
-:HL["/files/Demma.png","image"]
-:HL["/files/card.png","image"]
 :HL["/files/psplug.png","image"]
+:HL["/files/card.png","image"]
+:HL["/files/ap-grpo.png","image"]
+:HL["/logos/zillow.svg","image"]
+:HL["/logos/tiktok.svg","image"]
+:HL["/files/Demma.png","image"]
 :HL["/medspeak_framework.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JIDqoQXPGKav4Ms0mXZRK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"p6MmPwzXOeRkFgJP8iiJZ"}
